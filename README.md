@@ -9,7 +9,7 @@ Data: https://console.cloud.google.com/marketplace/product/bigquery-public-data/
 ## 2. Objective
 
 ## 3. Analysis
-1. Overall performance
+1. Overall sales performance
 - Total market: $   4322.98
 ```
 SELECT round(SUM(t2.sale_price),2) AS total_revenue
@@ -144,8 +144,17 @@ ORDER BY total_revenue DESC;
     ORDER BY year DESC, month DESC;
 ```
 
-4. The most popular product, category
-5. Customer profile
+4. product level
+- The most popular product, category
+- The most cancelled product, category
+- The most returned product, category
+  
+6. Customer profile
+- customer location
+- age
+- gender
+- average spend
+- CLV, RMF
 
 
 
