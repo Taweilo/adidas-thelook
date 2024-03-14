@@ -112,8 +112,40 @@ ORDER BY total_revenue DESC;
 ```
 
 2. Sales trend
-3. Best sales product, category
-4. Customer profile
+
+```
+ SELECT 
+        year,
+        month,
+        ROUND(SUM(t2.sale_price), 2) AS total_revenue, 
+        ROUND(SUM(t4.cost), 2) AS total_cost, 
+        ROUND(SUM(t2.sale_price) - SUM(t4.cost), 2) AS gross_profit
+    FROM 
+        (SELECT *,
+        EXTRACT(YEAR FROM TIMESTAMP(created_at)) AS year,
+        EXTRACT(MONTH FROM TIMESTAMP(created_at)) AS month,
+        FROM `bigquery-public-data.thelook_ecommerce.orders`) AS t1 
+    LEFT JOIN (
+            SELECT id, order_id, user_id, product_id, sale_price 
+            FROM `bigquery-public-data.thelook_ecommerce.order_items`
+        ) AS t2
+    ON t1.order_id = t2.order_id
+    LEFT JOIN `bigquery-public-data.thelook_ecommerce.users` AS t3
+    ON t2.user_id = t3.id
+    LEFT JOIN `bigquery-public-data.thelook_ecommerce.products` AS t4
+    ON t2.product_id = t4.id
+    WHERE 
+        ((EXTRACT(YEAR FROM TIMESTAMP(t1.created_at)) = 2023
+        AND EXTRACT(MONTH FROM TIMESTAMP(t1.created_at)) IN (1,2,3,4,5,6,7,8,9,10,11,12)) OR
+         (EXTRACT(YEAR FROM TIMESTAMP(t1.created_at)) = 2024 AND EXTRACT(MONTH FROM TIMESTAMP(t1.created_at)) = 1))
+        AND status NOT IN ('Cancelled', 'Returned')
+        AND brand ='adidas'
+    GROUP BY year, month
+    ORDER BY year DESC, month DESC;
+```
+
+4. The most popular product, category
+5. Customer profile
 
 
 
