@@ -30,7 +30,14 @@
 
 
 ## 2. Objective
+The goal is to utilize SQL queries to delve into the dataset and extract valuable insights that can enhance business performance for Adidas. This includes areas such as sales optimization, marketing effectiveness, and supply chain management efficiency.
 
 ## 3. Analysis
+1. Overall KPI
+2. Sales trends
+3. Product performance
+4. Customer profile
+5. Delivery efficiency
+6. New customer's preference
 
 ## 4. Recommendation
