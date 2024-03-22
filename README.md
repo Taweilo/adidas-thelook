@@ -54,6 +54,7 @@ Total overall revenue: 5695.02
     <img width="60%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/2.%20Sales%20Trend.jpg">
 </p>
 
+<p align="center" width="100%">
 | Time   | Total Revenue | Total Cost | Gross Profit |
 |--------|---------------|------------|--------------|
 | 2023-01| 653.74        | 281.38     | 372.36       |
@@ -69,7 +70,7 @@ Total overall revenue: 5695.02
 | 2023-11| 839.52        | 361.42     | 478.1        |
 | 2023-12| 1952.84       | 865.8      | 1087.04      |
 | 2024-01| 1623.87       | 682.8      | 941.07       |
-
+</p>
 
 
 4. Product performance
