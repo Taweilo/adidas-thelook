@@ -34,10 +34,21 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 
 ## 3. Analysis
 1. Overall KPI
+| Brand         | Total Revenue | Total Cost | Gross Profit | Market Share (%) |
+|---------------|---------------|------------|--------------|------------------|
+| Adidas        | 1623.87       | 682.8      | 941.07       | 29%              |
+| New Balance   | 50.25         | 26.96      | 23.29        | 1%               |
+| Nike          | 1820.58       | 879.08     | 941.5        | 32%              |
+| Puma          | 782.01        | 346.22     | 435.79       | 14%              |
+| Reebok        | 361           | 156.98     | 204.02       | 6%               |
+| Under Armour  | 1057.31       | 475.51     | 581.8        | 19%              |
+
+Total overall revenue: 5695.02
+
 2. Sales trends
 3. Product performance
 4. Customer profile
 5. Delivery efficiency
-6. New customer's preference
+6.  New customer's preference
 
 ## 4. Recommendation
