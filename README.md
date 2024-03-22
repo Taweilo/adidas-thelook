@@ -14,8 +14,12 @@
 - ER Diagram
 <div style="text-align:center;">
 
-![ER Diagram](https://github.com/Taweilo/theLook_CRM/blob/main/Image/theLook_ERD.jpg){ width=400 }
+![ER Diagram](https://github.com/Taweilo/theLook_CRM/blob/main/Image/theLook_ERD.jpg)
 
+</div>
+
+<div style="text-align:center">
+<img src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/theLook_ERD.jpg" width="400" />
 </div>
 
 
