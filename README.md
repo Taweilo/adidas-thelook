@@ -71,7 +71,7 @@ Total overall revenue: 5695.02
 
 3. Product performance
    
--- top 10 adidas's popular product   
+- top 10 adidas's popular product   
 | Product ID | Name                                                         | Purchase Frequency | Category    |
 |------------|--------------------------------------------------------------|--------------------|-------------|
 | 16106      | Adidas Golf Men's ClimaLite 3-Stripes Cuff Polo Sport Shirt. A76 | 3                  | Tops & Tees |
@@ -85,7 +85,7 @@ Total overall revenue: 5695.02
 | 2914       | adidas Women's Response Tee                                   | 1                  | Active      |
 | 18623      | adidas Men's Athletic Comfort Climalite 2-Pack Boxer Brief    | 1                  | Active      |
 
--- top 10 adidas's cancelled product
+- top 10 adidas's cancelled product
 | Product ID | Name                                                           | Cancelled Frequency | Category |
 |------------|----------------------------------------------------------------|---------------------|----------|
 | 18715      | adidas Men's Tech Fleece Pullover Hoodie                         | 1                   | Active   |
@@ -96,7 +96,7 @@ Total overall revenue: 5695.02
 | 18267      | Adidas Condivo Men`s Training Pants                               | 1                   | Active   |
 | 3059       | adidas Women's Response DS Short-Sleeve Tee W Short-Sleeve Top    | 1                   | Active   |
 
--- top 10 adidas's returned product
+- top 10 adidas's returned product
 | Product ID | Name                                                       | Returned Frequency | Category |
 |------------|------------------------------------------------------------|--------------------|----------|
 | 3042       | Adidas Ladies 3-stripe Long Sleeve Athletic V-neck Tee White | 1                  | Active   |
