@@ -37,7 +37,7 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 ## 3. Analysis
 ### 1) Overall KPI
    
-| Brand         | Total Revenue | Total Cost | Gross Profit | Market Share (%) |
+| Brand         | Total Revenue ($) | Total Cost ($) | Gross Profit ($) | Market Share (%) |
 |---------------|---------------|------------|--------------|------------------|
 | Adidas        | 1623.87       | 682.8      | 941.07       | 29%              |
 | New Balance   | 50.25         | 26.96      | 23.29        | 1%               |
@@ -52,7 +52,7 @@ Total overall revenue: 5695.02
 
 <img width="60%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/2.%20Sales%20Trend.jpg">
 
-| Time   | Total Revenue | Total Cost | Gross Profit |
+| Time   | Total Revenue ($) | Total Cost ($) | Gross Profit ($) |
 |--------|---------------|------------|--------------|
 | 2023-01| 653.74        | 281.38     | 372.36       |
 | 2023-02| 453.73        | 206.91     | 246.82       |
@@ -140,7 +140,7 @@ Total overall revenue: 5695.02
 
 - Buying Behavior
   
-| brand        | brand_purchase_by_new_customer | revenue |
+| brand        | brand_purchase_by_new_customer  | revenue ($) |
 |--------------|--------------------------------|---------|
 | Nike         | 13                             | 585.46  |
 | adidas       | 12                             | 408.89  |
