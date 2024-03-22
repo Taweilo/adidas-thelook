@@ -12,7 +12,7 @@
 ## 2. Introduction
 - Data source: https://console.cloud.google.com/marketplace/product/bigquery-public-data/thelook-ecommerce?hl=en&project=causal-flame-283208
 - ER Diagram
- <img src="https://www.convertize.com/wp-content/uploads/2021/01/what-is-split-ab-testing-hero.jpg" width="1100" height="400">
+ <img src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/theLook_ERD.jpg" >
 
 
 - Entity & Column
