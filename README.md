@@ -135,6 +135,17 @@ Total overall revenue: 5695.02
 
    
 ### 6)  New customer's preference
+- Traffic source
 <img width="60%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/6.%20New%20Customer%20-%20Traffic%20Source.jpg">
 
+- Buying Behavior
+  
+| brand        | brand_purchase_by_new_customer | revenue |
+|--------------|--------------------------------|---------|
+| Nike         | 13                             | 585.46  |
+| adidas       | 12                             | 408.89  |
+| PUMA         | 7                              | 210.97  |
+| Under Armour | 5                              | 174.93  |
+| Reebok       | 2                              | 127.00  |
+| New Balance  | 1                              | 14.99   |
 ## 4. Recommendation
