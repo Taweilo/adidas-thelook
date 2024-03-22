@@ -128,7 +128,10 @@ Total overall revenue: 5695.02
 <img width="60%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/4.%20Gender%20Profile.jpg">
 
 ### 5) Delivery efficiency
-
+|      | Avg. Lead Time (Day) | Avg. Shipping Duration (Day)|
+|------|----------------|-----------------------|
+| 2024-01 | 3.56           | 3.08                  |
+| 2023    | 3.05           | 2.48                  |
 
    
 ### 6)  New customer's preference
