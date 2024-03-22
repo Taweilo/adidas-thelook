@@ -19,7 +19,7 @@
 </div>
 
 <p align="center" width="100%">
-    <img width="33%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/theLook_ERD.jpg">
+    <img width="50%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/theLook_ERD.jpg">
 </p>
 
 - Entity & Column
