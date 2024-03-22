@@ -49,9 +49,11 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 Total overall revenue: 5695.02
 
 2. Sales trends
+   
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/2.%20Sales%20Trend.jpg">
 </p>
+
 | Time   | Total Revenue | Total Cost | Gross Profit |
 |--------|---------------|------------|--------------|
 | 2023-01| 653.74        | 281.38     | 372.36       |
