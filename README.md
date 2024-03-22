@@ -18,10 +18,9 @@
 
 </div>
 
-<div style="text-align:center">
-<img src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/theLook_ERD.jpg" width="400" />
-</div>
-
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/theLook_ERD.jpg">
+</p>
 
 - Entity & Column
 - Data type
