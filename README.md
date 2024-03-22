@@ -35,7 +35,7 @@ TheLook is a fictitious eCommerce clothing site developed by the Looker team. Th
 The goal is to utilize SQL queries to delve into the dataset and extract valuable insights that can enhance business performance for Adidas. This includes areas such as sales optimization, marketing effectiveness, and supply chain management efficiency.
 
 ## 3. Analysis
-### 1. Overall KPI
+### 1) Overall KPI
    
 | Brand         | Total Revenue | Total Cost | Gross Profit | Market Share (%) |
 |---------------|---------------|------------|--------------|------------------|
@@ -48,7 +48,7 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 
 Total overall revenue: 5695.02
 
-### 2. Sales trends
+### 2) Sales trends
 
 <img width="60%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/2.%20Sales%20Trend.jpg">
 
@@ -69,7 +69,7 @@ Total overall revenue: 5695.02
 | 2024-01| 1623.87       | 682.8      | 941.07       |
 
 
-### 3. Product performance
+### 3) Product performance
    
 - top 10 adidas's popular product
   
@@ -108,7 +108,7 @@ Total overall revenue: 5695.02
 | 18204      | adidas Men's Sport Performance Climalite 2-Pack Trunk        | 1                  | Active   |
 
 
-### 4. Customer profile
+### 4) Customer profile
    
 - Age Group profile
 <img width="60%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/4.%20Age%20Group%20Profile.jpg">
@@ -127,10 +127,10 @@ Total overall revenue: 5695.02
 - Gender profile
 <img width="60%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/4.%20Gender%20Profile.jpg">
 
-### 5. Delivery efficiency
+### 5) Delivery efficiency
 
 
    
-### 6.  New customer's preference
+### 6)  New customer's preference
 
 ## 4. Recommendation
