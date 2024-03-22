@@ -10,6 +10,8 @@
 ## 1. Summary
 
 ## 2. Introduction
+TheLook is a fictitious eCommerce clothing site developed by the Looker team. The dataset contains information about customers, products, orders, logistics, and web events. 
+
 - Data source: https://console.cloud.google.com/marketplace/product/bigquery-public-data/thelook-ecommerce?hl=en&project=causal-flame-283208
 - ER Diagram
 <p align="center" width="100%">
