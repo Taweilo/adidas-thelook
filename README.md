@@ -34,6 +34,7 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 
 ## 3. Analysis
 1. Overall KPI
+   
 | Brand         | Total Revenue | Total Cost | Gross Profit | Market Share (%) |
 |---------------|---------------|------------|--------------|------------------|
 | Adidas        | 1623.87       | 682.8      | 941.07       | 29%              |
