@@ -12,14 +12,8 @@
 ## 2. Introduction
 - Data source: https://console.cloud.google.com/marketplace/product/bigquery-public-data/thelook-ecommerce?hl=en&project=causal-flame-283208
 - ER Diagram
-<div style="text-align:center;">
-
-![ER Diagram](https://github.com/Taweilo/theLook_CRM/blob/main/Image/theLook_ERD.jpg)
-
-</div>
-
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/theLook_ERD.jpg">
+    <img width="60%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/theLook_ERD.jpg">
 </p>
 
 - Entity & Column
