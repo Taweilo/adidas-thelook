@@ -135,5 +135,6 @@ Total overall revenue: 5695.02
 
    
 ### 6)  New customer's preference
+<img width="60%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/6.%20New%20Customer%20-%20Traffic%20Source.jpg">
 
 ## 4. Recommendation
