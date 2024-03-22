@@ -108,8 +108,29 @@ Total overall revenue: 5695.02
 | 18204      | adidas Men's Sport Performance Climalite 2-Pack Trunk        | 1                  | Active   |
 
 
-5. Customer profile
-6. Delivery efficiency
-7.  New customer's preference
+4. Customer profile
+   
+- Age Group profile
+<img width="60%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/4.%20Age%20Group%20Profile.jpg">
+
+- Country profile
+  
+| Country        | Customer Number |
+|----------------|-----------------|
+| China          | 11              |
+| Brasil         | 5               |
+| United States  | 5               |
+| France         | 1               |
+| Australia      | 1               |
+| South Korea    | 1               |
+
+- Gender profile
+<img width="60%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/4.%20Gender%20Profile.jpg">
+
+5. Delivery efficiency
+
+
+   
+6.  New customer's preference
 
 ## 4. Recommendation
