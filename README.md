@@ -147,6 +147,14 @@ Total overall revenue: 5695.02
 | 2024-01 | 3.56           | 3.08                  |
 | 2023    | 3.05           | 2.48                  |
 
+- Buying Behavior
+
+  | Metric         | Average Value |
+|----------------|---------------|
+| Avg_recency (Day)   | 13.38         |
+| Avg_frequency (Times)  | 1.0           |
+| Avg_monetary ($)  | 36.91         |
+
    
 ### 6)  New customer's preference
 - Traffic source
