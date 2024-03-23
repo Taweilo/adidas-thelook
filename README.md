@@ -35,8 +35,9 @@ TheLook is a fictitious eCommerce clothing site developed by the Looker team. Th
 The goal is to utilize SQL queries to delve into the dataset and extract valuable insights that can enhance business performance for Adidas. This includes areas such as sales optimization, marketing effectiveness, and supply chain management efficiency.
 
 ## 3. Analysis
-### 1) Overall KPI
-   
+### 1) Overall KPI 
+- Compared with Competitors in 2024 Jan
+     
 | Brand         | Total Revenue ($) | Total Cost ($) | Gross Profit ($) | Market Share (%) |
 |---------------|---------------|------------|--------------|------------------|
 | Adidas        | 1623.87       | 682.8      | 941.07       | 29%              |
@@ -47,6 +48,18 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 | Under Armour  | 1057.31       | 475.51     | 581.8        | 19%              |
 
 Total overall revenue: 5695.02
+
+- Adidas regional performance in 2024 Jan
+| Country        | Total Revenue ($) | Total Cost ($) | Gross Profit ($) |
+|----------------|---------------|------------|--------------|
+| Belgium        | 903           | 375.65     | 527.35       |
+| China          | 240.88        | 102.91     | 137.97       |
+| Brasil         | 154           | 63.11      | 90.89        |
+| United States  | 136           | 60.11      | 75.89        |
+| Japan          | 67.99         | 32.36      | 35.63        |
+| United Kingdom | 55            | 21.99      | 33.01        |
+| France         | 42            | 16.3       | 25.7         |
+| Germany        | 25            | 10.38      | 14.62        |
 
 ### 2) Sales trends
 
