@@ -1,15 +1,12 @@
-# theLook CRM Project
+# Adidas Business Insights from theLook 
 ```
 ├── Image                       
 │
 ├── Code_A_B_test.ipynb                               <- code
 ├── README.md                                         <- read me
-├── ab_test_results_aggregated_views_clicks_2.csv     <- dataset
 
 ```
-## 1. Summary
-
-## 2. Introduction
+## 1. Introduction
 TheLook is a fictitious eCommerce clothing site developed by the Looker team. The dataset contains information about customers, products, orders, logistics, and web events. 
 
 - Data source: https://console.cloud.google.com/marketplace/product/bigquery-public-data/thelook-ecommerce?hl=en&project=causal-flame-283208
@@ -176,4 +173,4 @@ Total overall revenue: 5695.02
 | Under Armour | 5                              | 174.93  |
 | Reebok       | 2                              | 127.00  |
 | New Balance  | 1                              | 14.99   |
-## 4. Recommendation
+
