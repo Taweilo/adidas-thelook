@@ -142,6 +142,13 @@ Total overall revenue: 5695.02
 <img width="60%" src="https://github.com/Taweilo/theLook_CRM/blob/main/Image/4.%20Gender%20Profile.jpg">
 
 - Buying Behavior
+  
+| Metric          | Value |
+|-----------------|-------|
+| AOV  ($)           | 33.98 |
+| APF  ($)           | 1.0   |
+| Customer Value ($)  | 33.98 |
+
 
 | Metric         | Average Value |
 |----------------|---------------|
