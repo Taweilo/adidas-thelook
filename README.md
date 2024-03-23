@@ -149,7 +149,7 @@ Total overall revenue: 5695.02
 
 - Buying Behavior
 
-  | Metric         | Average Value |
+| Metric         | Average Value |
 |----------------|---------------|
 | Avg_recency (Day)   | 13.38         |
 | Avg_frequency (Times)  | 1.0           |
