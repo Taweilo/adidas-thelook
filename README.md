@@ -50,6 +50,7 @@ The goal is to utilize SQL queries to delve into the dataset and extract valuabl
 Total overall revenue: 5695.02
 
 - Adidas regional performance in 2024 Jan
+  
 | Country        | Total Revenue ($) | Total Cost ($) | Gross Profit ($) |
 |----------------|---------------|------------|--------------|
 | Belgium        | 903           | 375.65     | 527.35       |
