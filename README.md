@@ -2,7 +2,7 @@
 ```
 ├── Image                       
 │
-├── Code_A_B_test.ipynb                               <- code
+├── Adidas_SQL code.ipynb                             <- SQL code
 ├── README.md                                         <- read me
 
 ```
